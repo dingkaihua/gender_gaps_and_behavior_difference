@@ -9,4 +9,4 @@ A youtube mining model is attached in the main repository.
 A pre-trained DNN is inside the foler `trained_emotion_model'
 
 # Gender information recovery
-A gender information inference method is included
+A gender information inference method is included inside the foler `how_to_recovre_gender_information'
