@@ -6,4 +6,4 @@ A youtube mining model is attached in the main repository.
 
 
 # OpenSmile based emotion classification
-A pre-trained DNN is inside the foler
+A pre-trained DNN is inside the foler `trained_emotion_model'
